@@ -1,4 +1,4 @@
-This is Jingsi's course project implementing and analyzing a Bayesian observer model using data acquired from Sprague lab. 
+This is Jingsi's course project implementing and analyzing a Bayesian observer model using data acquired from Sprague lab. This program finds the parameters to a hypothesized Bayesian observer model (position-dependent variance function) by maximizing the likelihood of data given model parameters.
 
 Usage Restriction Notice
 
@@ -15,9 +15,3 @@ By accessing, downloading, or using the data in any way, you agree to abide by t
   No Modification: Any modification or alteration of the data is strictly prohibited.
 
   Non-Commercial Use: The data is intended for non-commercial use only. Commercial use is strictly prohibited without prior written consent.
-
-Usage
-
-This program finds the parameters to the hypothesized Bayesian observer model (position-dependent variance function) by maximizing the likelihood of data given model parameters.
-
-Add all folders to path to ensure the program runs.
