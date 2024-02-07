@@ -18,4 +18,6 @@ By accessing, downloading, or using the data in any way, you agree to abide by t
 
 Usage
 
+This program finds the parameters to the hypothesized Bayesian observer model (position-dependent variance function) by maximizing the likelihood of data given model parameters.
+
 Add all folders to path to ensure the program runs.
